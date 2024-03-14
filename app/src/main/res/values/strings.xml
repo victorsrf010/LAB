@@ -4,7 +4,8 @@
     <string name="AT1">AT1</string>
     <string name="AT2">AT2</string>
     <string name="close_at">Close AT</string>
-    <string name="student_info">Name: Vitor Ferreira\\nNumber: 26272\\nAge: 23</string>
+    <string name="student_info">Name: Vitor Ferreira\nNumber: 26272\nShift: C\nAge: 23\nCity: Braga</string>
     <string name="change_language_pt">Portuguese</string>
     <string name="change_language_en">English</string>
+    <string name="open_at">Open AT</string>
 </resources>

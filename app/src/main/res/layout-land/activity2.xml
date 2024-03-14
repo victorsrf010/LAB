@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp">
+
+    <Button
+        android:id="@+id/closeATbtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvStudentInfo"
+        android:layout_marginTop="16dp"
+        android:text="@string/close_at" />
+
+    <TextView
+        android:id="@+id/tvPageIdentifierAT2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/AT2" />
+
+    <TextView
+        android:id="@+id/tvStudentInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tvPageIdentifierAT2"
+        android:layout_marginTop="16dp"
+        android:text="@string/student_info" />
+
+</RelativeLayout>

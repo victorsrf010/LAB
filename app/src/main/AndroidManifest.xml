@@ -13,10 +13,11 @@
         android:theme="@style/Theme.LAB"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
-            android:exported="true"
-            android:label="@string/app_name"
-            android:theme="@style/Theme.LAB">
+            android:name=".AT2"
+            android:exported="false" />
+        <activity
+            android:name=".AT1"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
