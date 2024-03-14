@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LAB</string>
+    <string name="change_language">Mudar idioma</string>
+    <string name="AT1">AT1</string>
+    <string name="AT2">AT2</string>
+    <string name="close_at">Fechar AT</string>
+    <string name="student_info">Nome: Vitor Ferreira\\nNumero: 26272\\nIdade: 23</string>
+    <string name="change_language_pt">Português</string>
+    <string name="change_language_en">Inglês</string>
+</resources>

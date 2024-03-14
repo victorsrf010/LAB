@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LAB</string>
+    <string name="change_language">Change language</string>
+    <string name="AT1">AT1</string>
+    <string name="AT2">AT2</string>
+    <string name="close_at">Close AT</string>
+    <string name="student_info">Name: Vitor Ferreira\\nNumber: 26272\\nAge: 23</string>
+    <string name="change_language_pt">Portuguese</string>
+    <string name="change_language_en">English</string>
+</resources>
